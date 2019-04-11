@@ -1,0 +1,5 @@
+21:49:07,037 FATAL Log4jLevelTest:11 - fatal log message
+21:49:07,042 ERROR Log4jLevelTest:12 - error log message
+21:49:07,042  WARN Log4jLevelTest:13 - warn log message
+21:49:07,043  INFO Log4jLevelTest:14 - info log message
+21:49:07,043 DEBUG Log4jLevelTest:15 - debug log message
